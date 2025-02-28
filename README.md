@@ -35,3 +35,7 @@ Features
 
 5️ Testing Features
     Users can input test data and see function execution results in real-time.
+
+
+Technologies Used:
+   Javascript, HTML, CSS
